@@ -11,7 +11,7 @@ Step-by-step replication and detailing of classical neural networks
   - [x] MSHA @Hongru0306
 
 - [cv](./cv)
-  - CLS:
+  - [CLS](./cv/cls):
     - [x] VIT @Hongru0306
 
   - [OD](./cv/od/):
