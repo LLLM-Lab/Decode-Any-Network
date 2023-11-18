@@ -1,9 +1,9 @@
 # Decode-Any-Network
 Step-by-step replication and detailing of classical neural networks
 
-### 已完成network
+### Network Plan
 
-- [基础](./基础)
+- [base](./基础)
   - [x] NMS @Hongru0306
   - [x] RNN @Hongru0306
   - [x] GRU @Hongru0306
